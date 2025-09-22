@@ -3,3 +3,6 @@ bun.lockb
 .env
 dist/
 build/
+.next/
+out/
+*.db
